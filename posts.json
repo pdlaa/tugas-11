@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Belajar Next.js SSG",
+    "content": "Static Site Generation membuat website super cepat dan efisien."
+  },
+  {
+    "id": 2,
+    "title": "Perbedaan SSR, SSG, dan CSR",
+    "content": "Ketiganya berbeda dalam cara rendering halaman di sisi server atau client."
+  }
+]
